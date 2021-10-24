@@ -1,4 +1,4 @@
-<img alingn="center" width=200p src="https://github.com/cadusouza47/Designs-de-Telas-Figma/blob/main/img/uiux.png"/>
+<img alingn="center" width=150px src="https://github.com/cadusouza47/Designs-de-Telas-Figma/blob/main/img/uiux.png"/>
   
 ********************
 <p align="center">
